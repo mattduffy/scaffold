@@ -1,8 +1,13 @@
 .DS_Store
 /tmp
 node_modules
+npm-debug.log
 
 *.swp
 *.so
 
 *.env
+
+*.tar
+*.gz
+*.tgz
